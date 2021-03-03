@@ -1,0 +1,22 @@
+{
+  "name": "productos",
+  "version": "1.0.0",
+  "description": "Sistema de la gestion de los productos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TamarFlores/productocopia.git"
+  },
+  "author": "Tamar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TamarFlores/productocopia/issues"
+  },
+  "homepage": "https://github.com/TamarFlores/productocopia#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
